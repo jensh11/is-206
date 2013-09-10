@@ -1,7 +1,7 @@
-$ mkdir ~/Python2
+$ mkdir ~/Hello-World
 # Creates a directory for your project called "IS-206" in your user directory
 
-$ cd ~/Python2
+$ cd ~/Hello-World
 # Changes the current working directory to your newly created directory
 
 $ git init
