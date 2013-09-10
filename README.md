@@ -16,3 +16,9 @@ $ git add README
 
 $ git commit -m 'first commit'
 # Commits your files, adding the message "first commit"
+
+$ git remote add origin https://github.com/jensh11/is-206.git
+# Creates a remote named "origin" pointing at your GitHub repository
+
+$ git push origin master
+# Sends your commits in the "master" branch to GitHub
