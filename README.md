@@ -6,7 +6,7 @@ $ cd ~/is-206
 
 $ git init
 # Sets up the necessary Git files
-# Initialized empty Git repository in /Users/Jens/is-206/.git/
+# Initialized empty Git repository in /Users/jensh11/is-206/.git/
 
 $ touch README
 # Creates a file called "README" in your Hello-World directory
